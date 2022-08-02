@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![DevPrestigious’ github stats](https://github-readme-stats.vercel.app/api?username=devprestigious)](https://github.com/devprestigious)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devprestigious&layout=compact)](https://github.com/devprestigious)
+
 <!--
 **DevPrestigious/DevPrestigious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
