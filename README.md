@@ -1,5 +1,5 @@
 
-### Hi there, I'm <a href = "https://devprestigious.github.io/" target = "_blank">DevPrestigious 🧘‍♂️</a> 
+### Hi there, I'm <a href = "https://www.prestigious.dev/" target = "_blank">DevPrestigious 🧘‍♂️</a> 
 
 [![DevPrestigious’ github stats](https://github-readme-stats.vercel.app/api?username=devprestigious)](https://github.com/devprestigious)
 
